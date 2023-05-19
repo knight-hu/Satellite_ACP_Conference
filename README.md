@@ -1,1 +1,2 @@
 # Satellite_ACP_Conference
+we establish a highly dynamic theoretical model for the laser inter-satellite links (LISLs), taking the sun outage, the Doppler frequency shift and the platform vibration as the major noise sources of the free-space laser communication system. Numerical simulations are carried out to quantify the impact of these noises on the transmission system, which provides an effective reference for the further exploration of the satellite industry.
